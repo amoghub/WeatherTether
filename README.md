@@ -4,7 +4,7 @@ WeatherTether is a weather application built to provide accurate and descriptive
 
 ## Demonstration
 
-![base](https://user-images.githubusercontent.com/80735346/112739585-76952a00-8f43-11eb-9419-25fca9351087.png) 
+![base2](https://user-images.githubusercontent.com/80735346/112769757-ad754980-8ff0-11eb-8f79-da1b4d4fe203.jpg)
 
 
 
