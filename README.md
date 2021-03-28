@@ -13,7 +13,7 @@ WeatherTether
 ## Demonstration
 
 ![base2](https://user-images.githubusercontent.com/80735346/112769802-fe853d80-8ff0-11eb-92d7-894df27da398.jpg)
-
+https://user-images.githubusercontent.com/80735346/112770770-3fcc1c00-8ff6-11eb-85c0-dc3793dc3b55.mp4
 
 
 
@@ -21,7 +21,7 @@ WeatherTether
 
 XCode 12 Beta.
 
-Coded using Swift.
+Primary Code used on project: Swift.
 
 Tested on iPhone 7 Plus.
 
