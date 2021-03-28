@@ -8,7 +8,7 @@ WeatherTether uses the most renouned API for weather information and hourly fore
 
 Link for the API can be found here: https://openweathermap.org/api
 
-By
+By linking the inputted city given by the user and the API's server requests, WeatherTether is able to obtain a JSON formatted text, which is then split into different sections of the screen, allowing the user to have a clean and efficient way of seeing what the weather is like and a description of the forecast.
 
 WeatherTether
 
