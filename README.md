@@ -4,9 +4,7 @@ WeatherTether is a weather application built to provide accurate and descriptive
 
 # Code and API Usage
 
-WeatherTether uses the most renouned API for weather information and hourly forecasts: OpenWeather API. 
-
-Link for the API can be found here: https://openweathermap.org/api
+WeatherTether uses the most renouned API for weather information and hourly forecasts: OpenWeather API. Link for the API can be found here: https://openweathermap.org/api
 
 By linking the inputted city given by the user and the API's server requests, WeatherTether is able to obtain a JSON formatted text, which is then split into different sections of the screen, allowing the user to have a clean and efficient way of seeing what the weather is like and a description of the forecast.
 
