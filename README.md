@@ -13,7 +13,7 @@ By linking the location name to the OpenWeather API, WeatherTether is able to ob
 
 ## Demonstration
 
-Here is a 40 second clip of WeatherTether in action, click to see on YouTube:
+Here is a 40 second clip of WeatherTether in action (click to see on YouTube):
 
 [![WeatherTether Demo](https://user-images.githubusercontent.com/80735346/113493496-b90fb700-94ad-11eb-92cc-5f30583865a2.gif)](https://www.youtube.com/watch?v=P4i3ZzJvuRE)
 
