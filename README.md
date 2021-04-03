@@ -9,11 +9,14 @@ WeatherTether uses the most renouned API for weather information and hourly fore
 
 Link for the API can be found here: https://openweathermap.org/api
 
-By linking the location name to the OpenWeather API, WeatherTether is able to obtain a JSON formatted text, which is then split into different sections of the screen. This allows for a clean and efficient way of seeing what the weather is like, along with a description of the forecast. And thanks to the OpenWeather API, countries
+By linking the location name to the OpenWeather API, WeatherTether is able to obtain a JSON formatted text, which is then split into different sections of the screen. This allows for a clean and efficient way of seeing what the weather is like, along with a description of the forecast. And thanks to the OpenWeather API, not only can you check the weather of cities and towns, but countries as well. As long as the user spells the location correctly, WeatherTether is able to intepret and give an accurate description of the forecast. If inputted incorrectly, there is a prompt asking to reinput, shown in the demonstration. 
 
 ## Demonstration
 
 ![base2](https://user-images.githubusercontent.com/80735346/112769802-fe853d80-8ff0-11eb-92d7-894df27da398.jpg)
+
+Here is a 40 second clip of WeatherTether in action:
+https://www.youtube.com/watch?v=P4i3ZzJvuRE
 
 
 
