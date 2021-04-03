@@ -15,7 +15,7 @@ By linking the location name to the OpenWeather API, WeatherTether is able to ob
 
 ![base2](https://user-images.githubusercontent.com/80735346/112769802-fe853d80-8ff0-11eb-92d7-894df27da398.jpg)
 
-Here is a 40 second clip of WeatherTether in action:
+Here is a 40 second clip of WeatherTether in action, click to see on YouTube:
 
 [![WeatherTether Demo](https://j.gifs.com/NLQDw8.gif)](https://www.youtube.com/watch?v=P4i3ZzJvuRE)
 
