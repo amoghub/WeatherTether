@@ -16,7 +16,7 @@ Thanks to the OpenWeather API, not only can you check the weather of cities and 
 
 ## Demonstration
 
-![base2](https://user-images.githubusercontent.com/80735346/112769802-fe853d80-8ff0-11eb-92d7-894df27da398.jpg)
+//![base2](https://user-images.githubusercontent.com/80735346/112769802-fe853d80-8ff0-11eb-92d7-894df27da398.jpg)
 
 Here is a 40 second clip of WeatherTether in action, click to see on YouTube:
 
