@@ -1,14 +1,12 @@
 # WeatherTether
 
-WeatherTether is a weather application built to provide accurate and descriptive weather to an inputted location. Users can change the weather location by inputting a city / country name into a text field. Users can also change the degree type through a convenient switch, next to the input location textfield. 
+WeatherTether is a weather application built to provide accurate and descriptive weather to an inputted location. Users can change the weather location by inputting a city / country into a text field. Users can also change the degree type through a convenient switch, next to the location textfield. 
 
 # Code and API Usage
 
 WeatherTether uses the most renouned API for weather information and hourly forecasts: OpenWeather API. Link for the API can be found here: https://openweathermap.org/api
 
-By linking the inputted city given by the user to the OpenWeather API, WeatherTether is able to obtain a JSON formatted text, which is then split into different sections of the screen. This allows users to have a clean and efficient way of seeing what the weather is like and a description of the forecast.
-
-WeatherTether
+By linking the location name to the OpenWeather API, WeatherTether is able to obtain a JSON formatted text, which is then split into different sections of the screen. This allows for a clean and efficient way of seeing what the weather is like, along with a description of the forecast.
 
 ## Demonstration
 
@@ -20,7 +18,7 @@ WeatherTether
 
 XCode 12 Beta.
 
-Primary Code used on project: Swift.
+Coded with Swift.
 
 Tested on iPhone 7 Plus.
 
@@ -30,4 +28,3 @@ Tested on iPhone 7 Plus.
 Amogh Kalyan - *Design and Code*
 
 Brian Nan - *Design and Code*
-
