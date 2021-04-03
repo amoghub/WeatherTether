@@ -11,7 +11,7 @@ Link for the API can be found here: https://openweathermap.org/api
 
 By linking the location name to the OpenWeather API, WeatherTether is able to obtain a JSON formatted text, which is then split into different sections of the screen. This allows for a clean and efficient way of seeing what the weather is like, along with a description of the forecast. 
 
-# Inputs
+## Inputs
 
 Thanks to the OpenWeather API, not only can you check the weather of cities and towns, but countries as well. As long as the user spells the location correctly, WeatherTether is able to intepret and give an accurate description of the forecast. If inputted incorrectly, there is a prompt asking to reinput, shown in the demonstration. 
 
