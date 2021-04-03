@@ -13,10 +13,6 @@ By linking the location name to the OpenWeather API, WeatherTether is able to ob
 
 ## Demonstration
 
-Users will see open app to this main screen, default city when opened is New York.
-
-![base2](https://user-images.githubusercontent.com/80735346/112769802-fe853d80-8ff0-11eb-92d7-894df27da398.jpg)
-
 Here is a 40 second clip of WeatherTether in action, click to see on YouTube:
 
 [![WeatherTether Demo](https://user-images.githubusercontent.com/80735346/113493496-b90fb700-94ad-11eb-92cc-5f30583865a2.gif)](https://www.youtube.com/watch?v=P4i3ZzJvuRE)
